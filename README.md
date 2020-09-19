@@ -1,2 +1,2 @@
-# TWIENG: Twi-English-corpus
+# TWIENG: Twi-English-Corpus
 Twi-English parallel corpus
